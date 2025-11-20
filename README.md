@@ -19,7 +19,7 @@ o	    квартиль 1, квартиль 3 и IQR
 o	    стандартное отклонение
 o	    пути сохранённых файлов
 o	💠  ФОРМАТ ЧИТАЕТСЯ РОВНО, КРАСИВО, БЕЗ КАШИ
-o	💠  ВСЕ РЕЗУЛЬТАТЫ ВЫЧИСЛЕНИЙ СОХРАНЯЮТСЯ В СОЗДАННЫХ НА ДИСКЕ ФАЙЛАХ В ДАННОМ РЕПОЗИТОРИИ:
+o	💠  ВСЕ ДАННЫЕ и РЕЗУЛЬТАТЫ ВЫЧИСЛЕНИЙ СОХРАНЯЮТСЯ в СОЗДАННЫХ НА ДИСКЕ ФАЙЛАХ в этом РЕПОЗИТОРИИ, в формате CSV:
 o	📁  C:\Users\Lenovo\Documents\GitHub\PandasDatasetAZ02csv\PandasDatasetAZ02
 o	     students_grades.csv
 o      grades_summary.csv
