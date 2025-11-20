@@ -85,7 +85,7 @@ df.to_csv(students_file, index=False, encoding="utf-8-sig")
 # Сохраняем summary (сводные метрики)
 summary.to_csv(summary_file, encoding="utf-8-sig")
 
-# Отдельная таблица только для Квартилей Математики
+# Отдельная таблица только для Квартилей и IQR Математики
 pd.DataFrame({
     "Q1_math": [Q1_math],
     "Q3_math": [Q3_math],
