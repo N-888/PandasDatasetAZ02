@@ -97,6 +97,11 @@ print("="*60)
 print(head_df)
 
 print("\n" + "="*60)
+print("ТАБЛИЦА УСПЕВАЕМОСТИ ВСЕХ 10 УЧЕНИКОВ по 5 ПРЕДМЕТАМ:")
+print("="*60)
+print(df)
+
+print("\n" + "="*60)
 print("СРЕДНИЕ ЗНАЧЕНИЯ:")
 print("="*60)
 print(mean_values)
